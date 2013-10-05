@@ -1,4 +1,9 @@
-TraficoUrbano
-=============
+Control de Trafico Urbano Distribuido
+=====================
 
-Control Distribuido de Trafico Urbano
+GeoCensos Mesoamerica Mapps Hackathon
+
+
+Eduardo Iragorri
+
+Trafico Urbano
